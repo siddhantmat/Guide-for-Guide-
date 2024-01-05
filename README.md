@@ -21,6 +21,6 @@ Problems encountered:
 
 1) Familiarity with the concept and the fundamentals of API.
    
-2)Struggle with fetching RAZORPAY API without extensive know-how of 'Orders' and Advanced Javascript.
+2) Struggle with fetching RAZORPAY API without extensive know-how of 'Orders' and Advanced Javascript.
 
-3)Difficulties handling functionalities of links post the push of code to the GitHub repository.
+3) Difficulties handling functionalities of links post the push of code to the GitHub repository.
