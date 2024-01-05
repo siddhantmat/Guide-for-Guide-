@@ -3,11 +3,11 @@ A Travel-Guide hiring website ideated and implemented at HACKOWASP 5.0 in Thapar
 
 THE TEAM:
 
-Uttkarsh Singh Pathania (Team Leader)
-Devansh
-Siddhant Mathur
-Aayush Singh
-Abhimanyu Kumar
+1) Uttkarsh Singh Pathania (Team Leader)
+2) Devansh
+3) Siddhant Mathur
+4) Aayush Singh
+5) Abhimanyu Kumar
 THE STORY: A team of 5 from a point of no return with zero know-how of web development tech stack, embarked on this remarkable journey of building a primarily front-end website for what they found an interesting idea! "A GUIDE FOR GUIDES!"
 
 Tech Stack Used:
